@@ -1,8 +1,11 @@
-# COVID-19 Data Exploration and Cleaning with SQL
+# Introduction
 
-These 10 SQL queries were designed to extract insights from the Coronavirus Deaths dataset published by "Our World in Data" which 
-is a publically available dataset created with data from the WHO. This project is exploratory in nature, each query is meant to answer 
-a hypothetical question one would ask about the data. The timeframe for the data begins at 1/5/2020 and ends at 1/7/2024. Should you wish to 
-explore the data yourself, there is a copy of the origional Excel file in this repository.
+These 10 SQL queries were designed to extract insights from data related to worldwide COVID-19 deaths between 1/5/2020 and 1/7/2024. As an exploratory project, each query is meant to answer a specific question. Should you wish to explore the data yourself, there is a copy of the original Excel file in this repository.
 
-Link to the origional database: https://ourworldindata.org/covid-deaths
+# Data
+
+All data used for this project was published by "Our World in Data" which is a publicly available dataset created with data from the WHO. Please use the link below to visit the original data.
+
+https://ourworldindata.org/covid-deaths
+
+
